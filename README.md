@@ -21,7 +21,7 @@ The first website ever created is still online! Built by Tim Berners-Lee in 1991
 
 # 💫 About Me:
 - 🔭 I’m currently working on incorporating AI in Web Development 
-- 🌱 I’m currently learning Django Rest Framework, MERN, ML
+- 🌱 I’m currently learning Django Rest Framework, React.js, ML
 - 👯 I’m looking to collaborate on Django and ML projects
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monisha-r-fsc1137)
 
