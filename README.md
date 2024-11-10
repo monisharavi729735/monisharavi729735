@@ -23,7 +23,7 @@ The first website ever created is still online! Built by Tim Berners-Lee in 1991
 - 🔭 I’m currently working on incorporating AI in Web Development 
 - 🌱 I’m currently learning Django Rest Framework, React.js, ML
 - 👯 I’m looking to collaborate on Django and ML projects
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monisha-r-fsc1137)
+- 📫 How to reach me: <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monisha-r-fsc1137)
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  I'm passionate about both tech and theoretical physics, and when I'm not coding, I'm probably solving physics equations or exploring new ways to combine tech and science!
